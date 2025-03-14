@@ -1,0 +1,14 @@
+{
+  "name": "dns-packet",
+  "version": "1.0.0",
+  "description": "hii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dns-packet": "^5.6.1"
+  }
+}
